@@ -1,4 +1,4 @@
-<h3>michalkrol3 / https://pawelzygmuntkrol.github.io/michalkrol3</h3>
+<h3>michalkrol3 / https://michalkrol.netlify.app/</h3>
 
 Third attempt to create a page for a contemporary artist Michał Król. 
 
