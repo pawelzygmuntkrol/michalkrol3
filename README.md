@@ -17,8 +17,8 @@ operate in React and how some little changes in their vision can make developers
 when you have to use some data in non parent-child related components (I did not have a lot of nesting but I know it would be good in this case either) and useEffect helps keep 
 track of changes happening dynamically. 
 
-- <b>Router</b> - I was encharmed by Router until build. It worked well on local server but it does not help in every situation (because of server-side rendering). I needed to
-use HashRouter to make my website work in every situation yet still some Router features are great. In future I would like to learn more about BrowserRouter. 
+- <b>Router</b> - I was encharmed by Router until build. It worked well on local server but it does not help in every situation. I needed to
+use HashRouter to make my website work in every situation yet still some Router features are great. In future I want to learn more about BrowserRouter. 
 
 - <b>Styled Components</b> - having all code in one place is great. Because of how React works we have HTML+JS in one place, Style Components is a step further that brings CSS
 to the stack. I like using Styled Components yet I think SASS has advantage in debugging because of lack of incomprehensive IDs and MIXINS with arguments are graat tool when you 
